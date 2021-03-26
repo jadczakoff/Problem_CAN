@@ -1,0 +1,4 @@
+MyCAN.c:16:6:MyCAN_Init	24	static
+MyCAN.c:70:6:MyCAN_IrqHandler	16	static
+MyCAN.c:74:6:MyCAN_SendMessage	40	dynamic
+MyCAN.c:94:6:MyCAN_ReceiveMessage	64	dynamic

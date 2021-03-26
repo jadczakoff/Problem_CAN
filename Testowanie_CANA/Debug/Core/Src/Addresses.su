@@ -1,0 +1,3 @@
+Addresses.c:11:6:MemTable_Init	16	static
+Addresses.c:24:6:MemWriteTable	32	static
+Addresses.c:37:6:MemReadTable	32	static

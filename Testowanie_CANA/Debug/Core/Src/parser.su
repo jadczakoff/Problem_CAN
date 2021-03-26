@@ -1,0 +1,4 @@
+parser.c:25:6:UART_ParseLED	16	static
+parser.c:62:6:UART_ParseENV	48	static
+parser.c:108:6:UART_ParseNAME	24	static
+parser.c:145:6:UART_ParseLine	88	static
